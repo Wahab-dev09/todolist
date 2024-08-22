@@ -2,8 +2,8 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/25b848e4-eae0-4b98-a1c2-f18dc4136ba1" alt="Todo Screenshot 1" width="32%" />
-  <img src="link-to-your-image-2" alt="Todo Screenshot 2" width="32%" />
-  <img src="link-to-your-image-3" alt="Todo Screenshot 3" width="32%" />
+  <img src="https://github.com/user-attachments/assets/a52cef1c-69ca-48fd-be42-f075117743e3" alt="Todo Screenshot 2" width="32%" />
+  <img src="https://github.com/user-attachments/assets/5e488ab8-b6d9-41f4-b82a-5a5130886684" alt="Todo Screenshot 3" width="32%" />
 </p>
 
 ## Overview
